@@ -34,7 +34,7 @@
 
     <!-- Preloader -->
     <div class="preloader flex-column justify-content-center align-items-center">
-        <img class="animation__shake" src="{{asset('adminlte/img/logoGobernacion.png')}}" alt="GADCLogo" height="180"
+        <img class="animation__shake" src="{{asset('adminlte/img/restaurant.png')}}" alt="GADCLogo" height="180"
              width="180">
     </div>
 
@@ -93,7 +93,7 @@
     <aside class="main-sidebar sidebar-dark-primary elevation-4">
         <!-- Brand Logo -->
         <a href="{{route('home')}}" class="brand-link" style="text-align: center">
-            <img src= "{{asset('adminlte/img/logoGobernacionBanner.png')}}" alt="GADCLogo" class="brand-image img-circle elevation-3"
+            <img src= "{{asset('adminlte/img/restaurant.png')}}" alt="GADCLogo" class="brand-image img-circle elevation-3"
                  style="opacity: .8">
             <span class="brand-text font-weight-light" ><strong style="font-size:larger; font-weight: 1000;">GUSTOV</strong></span>
         </a>
